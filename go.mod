@@ -1,1 +1,1 @@
-module "github.com/ballpit/vgo-dep2/v3"
+module github.com/ballpit/vgo-dep2/v3
