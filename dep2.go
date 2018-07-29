@@ -4,3 +4,8 @@ package dep2
 func RootFunc() string {
 	return "dep val 2"
 }
+
+// BreakingChange returns some data.
+func BreakingChange() string {
+	return "here is a breaking change"
+}
